@@ -17,7 +17,7 @@
             <span id="errorMessage">${errorMessage}</span><br>
             <span id="ageCalc">${ageCalc}</span><br>
             <input type="submit" value="Age Next Birthday"><br>
-            <a href=\"arithmeticcalculator.jsp\">Arithmetic Calculator</a>
         </form>
+            <a href="arithmeticcalculator">Arithmetic Calculator</a>
     </body>
 </html>
